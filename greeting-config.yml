@@ -1,7 +1,10 @@
 security:
+  user:
+   name: user
+   password: user
   basic:
-    enabled: false
+    enabled: true
 
 management:
   security:
-    enabled: false 
+    enabled: true 
