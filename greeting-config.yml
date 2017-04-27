@@ -1,4 +1,3 @@
-name: yep--yaggr
 security:
   basic:
     enabled: false
